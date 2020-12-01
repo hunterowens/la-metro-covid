@@ -1,0 +1,3 @@
+[submodule "gtfs_bus"]
+	path = gtfs_bus
+	url = https://gitlab.com/LACMTA/gtfs_bus.git
