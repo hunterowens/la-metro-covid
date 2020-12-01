@@ -1,8 +1,0 @@
-sources:
-  gtfs_feed:
-    description: gtfs_bus feed for metro 
-    driver: textfiles
-    args:
-      urlpath: 'git://./gtfs_bus/agency.txt'
-    git_kwargs:  
-      ref: 'b4a497565ec896b4938bd72b23b819b399b6ea52' 
